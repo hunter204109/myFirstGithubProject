@@ -1,0 +1,6 @@
+framework module YYPodTestLib {
+  umbrella header "YYPodTestLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "YYPodTestLib",
+  "version": "0.1.0",
+  "summary": "A short description of YYPodTestLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fangheng/YYPodTestLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fangheng": "790878247@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/fangheng/YYPodTestLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YYPodTestLib/Classes/**/*"
+}

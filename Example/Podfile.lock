@@ -1,0 +1,16 @@
+PODS:
+  - YYPodTestLib (0.1.0)
+
+DEPENDENCIES:
+  - YYPodTestLib (from `../`)
+
+EXTERNAL SOURCES:
+  YYPodTestLib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  YYPodTestLib: 3d0c5ba1be785a5d117e569de00b7a74abf0c002
+
+PODFILE CHECKSUM: db24518e71a86615562ef1e6ca80294a426c2c06
+
+COCOAPODS: 1.3.0.beta.3
